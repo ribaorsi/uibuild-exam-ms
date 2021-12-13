@@ -61,7 +61,7 @@ body {
         
     }
     
-    #button {
+    .button {
         height: 80px; 
         width: 50%;
         max-width: 280px;
@@ -148,7 +148,7 @@ body {
             
         }
         
-        #button {
+        .button {
             height: 80px; 
             width: 50%;
             max-width: 280px;
